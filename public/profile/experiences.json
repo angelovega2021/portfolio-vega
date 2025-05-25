@@ -1,0 +1,40 @@
+{
+    "experiences": [
+        {
+            "title": "Mashup Garage",
+            "subtitle": "Earlypay",
+            "workType": "Full-stack Developer",
+            "workDescription": [
+                "Enhanced database schema functionality by strategically incorporating new columns into existing tables to align with specified features.",
+                "Developed and maintained custom Rake tasks to automate specific tasks/processes.",
+                "Developed modular and reusable React components, fostering a scalable and maintainable frontend architecture.",
+                "Collaborated closely with UI/UX teams to align design principles with development objectives, ensuring a cohesive and user-centric product experience."
+            ],
+            "dateText": "07/2021 – 01/2025"
+        },
+        {
+            "title": "White Cloak Technologies",
+            "subtitle": "Unionbank of the Philippines",
+            "workType": "Front-end Developer",
+            "workDescription": [
+                "Worked as a front-end developer on a corporate banking back-office web app, transitioning from a legacy platform.",
+                "Collaborate with UI/UX designer in maintaining brand consistency throughout the design.",
+                "Collaborate with the backend developer for integrating APIs.",
+                "Participating in agile practices such as sprint planning, product backlog grooming and daily stand up."
+            ],
+            "dateText": "10/2018 – 04/2021"
+        },
+        {
+            "title": "Accenture Technology",
+            "subtitle": "Accenture Operations",
+            "workType": "Front-end Developer",
+            "workDescription": [
+                "Developed enchancements with the existing the existing features.",
+                "Transform the given wireframe into working front end codes.",
+                "Worked with a team in an Agile Scrum Project.",
+                "Collaborating with the client for clarifications and expected outcomes."
+            ],
+            "dateText": "04/2014 – 06/2018"
+        }
+    ]
+}

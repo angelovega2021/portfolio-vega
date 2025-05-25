@@ -1,0 +1,86 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have used with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon": "images/skills/js.svg",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/typescript.svg",
+                    "title": "Typescript"
+                },
+                {
+                    "icon": "images/skills/ruby.svg",
+                    "title": "Ruby"
+                },
+                {
+                    "icon": "images/skills/postgres.svg",
+                    "title": "Postgres"
+                }
+        ]},
+        {
+            "title": "Libraries & Framework",
+            "items" : [
+                {
+                    "icon": "images/skills/react.svg",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/redux.svg",
+                    "title": "Redux"
+                },
+                {
+                    "icon": "images/skills/jest.svg",
+                    "title": "Jest"
+                },
+                {
+                    "icon": "images/skills/bootstrap.svg",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/antd.svg",
+                    "title": "Antd"
+                },
+                {
+                    "icon": "images/skills/jquery.svg",
+                    "title": "JQuery"
+                },
+                {
+                    "icon": "images/skills/rails.svg",
+                    "title": "Ruby on Rails"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/nodejs.svg",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/heroku.svg",
+                    "title": "Heroku"
+                },
+                {
+                    "icon": "images/skills/github.svg",
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "images/skills/slack.svg",
+                    "title": "Slack"
+                },
+                {
+                    "icon": "images/skills/jira.svg",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/vscode.svg",
+                    "title": "Visual Studio Code"
+                }
+            ]
+    }
+]}

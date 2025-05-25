@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/angelovega/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/angelovega2021?tab=overview&from=2024-11-01&to=2024-11-30"
+        },
+        {
+            "network" : "email",
+            "href": "vegavillamor@gmail.com"
+        }
+    ]
+}
